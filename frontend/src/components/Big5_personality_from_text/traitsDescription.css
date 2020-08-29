@@ -1,0 +1,21 @@
+.card {
+	box-shadow: 0 2px 4px 0 rgba(0,0,0,0.1), 0 4px 14px 0 rgba(0,0,0,0.12);
+}
+
+.headH{
+	display: inline;
+	font-style: initial;
+	font-weight: 700;
+	padding-left: 15px;
+}
+.headB{
+	display: inline;
+	font-style: italic;
+	font-weight: 450;
+}
+
+ul {
+    list-style-type: disc !important;
+    padding-left:1em !important;
+    margin-left:1em;
+}
